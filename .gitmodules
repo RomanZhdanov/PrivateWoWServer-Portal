@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://romanizh@dev.azure.com/romanizh/World%20of%20Warcraft%20Private%20Server/_git/wowmini-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://romanizh@dev.azure.com/romanizh/World%20of%20Warcraft%20Private%20Server/_git/wowmini-frontend

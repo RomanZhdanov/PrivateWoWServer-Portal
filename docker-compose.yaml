@@ -1,0 +1,9 @@
+services:
+  backend:
+    build: ./miniServer-backend
+    ports:
+      - '5000:80'
+  frontend:
+    build: ./miniserver-ui
+    ports:
+      - '8080:8080'
